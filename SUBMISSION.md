@@ -2,5 +2,4 @@
 https://github.com/bhupeshpatil04/railse_task
 
 ### 2. Link to your Video Demonstration
-(Please ensure the link is publicly accessible)
-[Your Google Drive, Loom, or YouTube Link Here]
+https://drive.google.com/file/d/1vz4qrUTuJ6mn1nuH4KFt9VcBonoj_Z8I/view
